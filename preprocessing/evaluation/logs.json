@@ -1,0 +1,28 @@
+{
+  "user": "dummy1@gmail.com",
+  "preferences": [
+    "Counter-Strike"
+  ],
+  "recommendations": [
+    {
+      "game": "Counter-Strike: Source",
+      "score": 0.462
+    },
+    {
+      "game": "Insurgency",
+      "score": 0.4523
+    },
+    {
+      "game": "Undoing",
+      "score": 0.43
+    },
+    {
+      "game": "Team Fortress Classic",
+      "score": 0.4276
+    },
+    {
+      "game": "Counter-Strike: Global Offensive",
+      "score": 0.4205
+    }
+  ]
+}
