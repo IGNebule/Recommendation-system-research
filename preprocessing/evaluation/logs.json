@@ -1,28 +1,28 @@
 {
   "user": "dummy1@gmail.com",
   "preferences": [
-    "Counter-Strike"
+    "Ricochet"
   ],
   "recommendations": [
     {
-      "game": "Counter-Strike: Source",
-      "score": 0.462
+      "game": "Chaser",
+      "score": 0.4345
     },
     {
-      "game": "Insurgency",
-      "score": 0.4523
+      "game": "Apocryph: an old-school shooter",
+      "score": 0.3829
     },
     {
-      "game": "Undoing",
-      "score": 0.43
+      "game": "Ion Maiden",
+      "score": 0.3798
     },
     {
-      "game": "Team Fortress Classic",
-      "score": 0.4276
+      "game": "F.E.A.R.",
+      "score": 0.369
     },
     {
-      "game": "Counter-Strike: Global Offensive",
-      "score": 0.4205
+      "game": "System Shock 2",
+      "score": 0.3635
     }
   ]
 }
